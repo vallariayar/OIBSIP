@@ -1,0 +1,4 @@
+# No external Python packages required.
+# This project uses Python's built-in modules:
+# - random
+# - string
