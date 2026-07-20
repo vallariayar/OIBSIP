@@ -16,7 +16,7 @@ def get_height_m():
     while True:
         height = get_positive_float("Enter your height (m): ")
         if height > 3:
-            # Likely entered in cm instead of meters (e.g., 160 instead of 1.60)
+
             converted = height / 100
             print(f"Note: {height} looks like it's in centimeters. Using {converted:.2f} m instead.")
             return converted
