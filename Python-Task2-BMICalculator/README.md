@@ -1,4 +1,4 @@
-# 🧮 BMI Calculator using Python
+# BMI Calculator using Python
 
 A simple Python-based BMI (Body Mass Index) Calculator that calculates a user's BMI based on their height and weight, then displays the corresponding health category. The program also validates user input to ensure accurate results.
 
@@ -14,7 +14,7 @@ A simple Python-based BMI (Body Mass Index) Calculator that calculates a user's 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 - Functions
@@ -24,7 +24,7 @@ A simple Python-based BMI (Body Mass Index) Calculator that calculates a user's 
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone the repository:
 
@@ -46,7 +46,7 @@ python bmi_calculator.py
 
 ---
 
-## 📋 BMI Categories
+##  BMI Categories
 
 | BMI Range | Category |
 |-----------|----------|
@@ -57,7 +57,7 @@ python bmi_calculator.py
 
 ---
 
-## ▶️ Example
+##  Example
 
 ```
 === BMI Calculator ===
@@ -71,13 +71,13 @@ Category: Normal
 
 ---
 
-## 📌 Requirements
+##  Requirements
 
 - Python 3.x
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - BMI history tracking
 - Graphical User Interface (GUI)
@@ -86,7 +86,7 @@ Category: Normal
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Vallari Dattakumar Ayar**
 
