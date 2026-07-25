@@ -6,17 +6,17 @@ A simple Python Voice Assistant that listens to voice commands, responds with sp
 
 ## ✨ Features
 
-- 👋 Greets the user
-- 🕒 Tells the current time
-- 📅 Tells the current date
-- 🌐 Searches Google
-- 🔊 Converts text to speech
-- 🎤 Accepts voice commands
-- 🚪 Exits using voice commands
+- Greets the user
+-  Tells the current time
+-  Tells the current date
+-  Searches Google
+-  Converts text to speech
+   Accepts voice commands
+-  Exits using voice commands
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - SpeechRecognition
@@ -26,7 +26,7 @@ A simple Python Voice Assistant that listens to voice commands, responds with sp
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repository:
 
@@ -42,7 +42,7 @@ pip install SpeechRecognition pyttsx3 PyAudio
 
 ---
 
-## ▶️ Run the Project
+##  Run the Project
 
 ```bash
 python voice_assistant.py
@@ -50,7 +50,7 @@ python voice_assistant.py
 
 ---
 
-## 🎤 Sample Commands
+##  Sample Commands
 
 - Hello
 - What is the time?
@@ -61,7 +61,7 @@ python voice_assistant.py
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 - Python 3.x
 - Microphone
@@ -69,7 +69,7 @@ python voice_assistant.py
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Weather updates
 - Open applications
@@ -78,7 +78,7 @@ python voice_assistant.py
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Vallari Dattakumar Ayar**
 
