@@ -1,36 +1,41 @@
 # Random Password Generator
 
-## Oasis Infobyte Internship
+A simple Python application that generates secure and random passwords based on user-selected criteria, including password length and character types.
 
-**Track:** Python Programming
+---
 
-**Task:** Task 3 - Random Password Generator
+## ✨ Features
 
-## Description
-
-This project is a beginner-level Random Password Generator developed using Python. It generates strong and random passwords based on the user's preferred length and selected character types, including uppercase letters, lowercase letters, numbers, and symbols. The program validates user input and allows users to generate multiple passwords in a single session.
-
-## Technologies Used
-
-- Python
-- random
-- string
-
-## Features
-
-- User-defined password length
-- Minimum password length validation (8 characters)
-- Option to include uppercase letters, lowercase letters, numbers, and symbols
-- Generates secure random passwords
+- Generate random passwords
+- Custom password length (minimum 8 characters)
+- Uppercase, lowercase, numbers, and symbols
 - Input validation
-- Generate multiple passwords without restarting the program
+- Generate multiple passwords
 
-## How to Run
+---
+
+##  Technologies Used
+
+- Python 3
+- `random`
+- `string`
+
+---
+
+##  Run the Project
 
 ```bash
 python password_generator.py
 ```
 
-## Author
+---
 
-Vallari Ayar
+##  Requirements
+
+- Python 3.x
+
+---
+
+##  Author
+
+**Vallari Dattakumar Ayar**
