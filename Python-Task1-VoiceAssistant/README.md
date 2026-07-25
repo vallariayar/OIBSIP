@@ -1,28 +1,85 @@
-# Voice Assistant
+# 🎙️ Voice Assistant using Python
 
-## Oasis Infobyte Internship
+A simple Python Voice Assistant that listens to voice commands, responds with speech, tells the current date and time, searches Google, and exits on command.
 
-**Track:** Python Programming
+---
 
-**Task:** Task 1 - Voice Assistant
+## ✨ Features
 
-## Objective
-Develop a simple voice assistant using Python that listens to user commands and performs basic tasks such as greeting the user, telling the current time and date, and performing web searches.
+- 👋 Greets the user
+- 🕒 Tells the current time
+- 📅 Tells the current date
+- 🌐 Searches Google
+- 🔊 Converts text to speech
+- 🎤 Accepts voice commands
+- 🚪 Exits using voice commands
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
+
 - Python
 - SpeechRecognition
 - pyttsx3
 - datetime
 - webbrowser
 
-## Features
-- Voice recognition
-- Text-to-speech responses
-- Greeting the user
-- Current date and time
-- Web search
-- Error handling for unrecognized speech
+---
 
-## Author
-Vallari Ayar
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/Voice-Assistant.git
+```
+
+Install the required libraries:
+
+```bash
+pip install SpeechRecognition pyttsx3 PyAudio
+```
+
+---
+
+## ▶️ Run the Project
+
+```bash
+python voice_assistant.py
+```
+
+---
+
+## 🎤 Sample Commands
+
+- Hello
+- What is the time?
+- What is today's date?
+- Search Python programming
+- Google Artificial Intelligence
+- Exit
+
+---
+
+## 📋 Requirements
+
+- Python 3.x
+- Microphone
+- Internet connection (for speech recognition)
+
+---
+
+## 🚀 Future Improvements
+
+- Weather updates
+- Open applications
+- Play music
+- AI chatbot integration
+
+---
+
+## 👩‍💻 Author
+
+**Vallari Dattakumar Ayar**
+
+⭐ If you like this project, don't forget to star the repository!
